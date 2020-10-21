@@ -1,0 +1,19 @@
+{
+    "name": "pettarede/db2_err",
+    "type": "library",
+    "description": "Fungsi untuk handle error DB2 di php",
+    "keywords": ["db2","db2 error"],
+    "homepage": "https://github.com/pettarede/db2_err",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petta Rede",
+            "email": "hamransp@gmail.com",
+            "homepage": "https://arungpalakka.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
