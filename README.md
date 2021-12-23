@@ -1,5 +1,5 @@
 # db2_err
-Helper Codeigniter DB2 Error Message SQLCODE and SQLSTATE
+Helper Codeigniter 3 DB2 Error Message SQLCODE and SQLSTATE
 
 
 Usage : 
